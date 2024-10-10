@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wiki_search/static/css/main.3b6b3080.css",
+    "main.js": "/wiki_search/static/js/main.7149a797.js",
+    "index.html": "/wiki_search/index.html",
+    "main.3b6b3080.css.map": "/wiki_search/static/css/main.3b6b3080.css.map",
+    "main.7149a797.js.map": "/wiki_search/static/js/main.7149a797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6b3080.css",
+    "static/js/main.7149a797.js"
+  ]
+}
