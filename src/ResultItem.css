@@ -1,0 +1,23 @@
+.ResultItem{
+  max-width: 600px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+.time-span{
+  align-self: flex-end;
+}
+
+h3{
+  display: inline;
+}
